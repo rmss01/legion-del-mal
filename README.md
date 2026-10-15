@@ -7,7 +7,9 @@
 ![Último commit](https://img.shields.io/github/last-commit/rmss01/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/rmss01/legion-del-mal)
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde local
+
+## Es un grupo dedicado a aprender Git y GitHub
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
