@@ -9,3 +9,9 @@
 
 - Latitud: 0.80° S
 - Longitud: 10.47° E
+
+## Instalaciones
+
+- Taller de misiles nucleares
+- Taller de aceleradores de partículas
+- Bar con billar
