@@ -16,8 +16,15 @@
 
 * Sentido arácnido: Puede anticiparse a los ataques.
 
-## Debilidades:
+## Debilidades
 
 * Vulnerabilidad mental: Sus poderes se afectan por sus emociones.
 
 * Moral increbrantable: Su moral es debilidad.
+
+## Peliculas
+
+- Spiderman: Brand new day
+- Spiderman: No way home
+- Spiderman: Far from home
+- Spiderman: Homecomming
