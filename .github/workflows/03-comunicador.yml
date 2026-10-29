@@ -17,6 +17,21 @@ on:
           - Mystique
           - Brainiac
 
+      prioridad:
+        description: "¿Qué prioridad tiene el mensaje?"
+        required: true
+        type: choice
+        options:
+          - Normal
+          - Baja
+          - Alta
+
+      mensaje:
+        description: "Mensaje:"
+        required: true
+        type: text
+        default: "La misión fue un éxito"
+        
 jobs:
 
   transmitir-mensaje:
