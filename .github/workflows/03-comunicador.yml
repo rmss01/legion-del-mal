@@ -53,6 +53,7 @@ jobs:
           echo "De: ${{ inputs.villano }}"
           echo "Prioridad: ${{ inputs.prioridad }}"
           echo "----- Mensaje -----"
-          echo "${{ inputs.mensaje }}"
+          cowsay -f eyes "${{ inputs.mensaje }}"
           echo "-------------------"
           echo "Fecha: $(date -u +"%d-%m-%y - %H:%M UTC")"
+          echo "..."
