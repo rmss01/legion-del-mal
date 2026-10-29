@@ -11,4 +11,4 @@ jobs:
     steps:
 
       - name: El agente se presenta
-      - run: echo "Soy Lex Luthor, lider de la Legión del mal."
+        run: echo "Soy Lex Luthor, lider de la Legión del mal."
