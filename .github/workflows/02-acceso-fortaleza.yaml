@@ -1,6 +1,6 @@
 name: Acceso Fortaleza
 
-on: push
+on: workflow_dispatch
 
 jobs:
 
