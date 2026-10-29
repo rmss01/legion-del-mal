@@ -37,7 +37,7 @@ on:
         required: true
         type: choice
         options:
-          - squid
+          - yasuna_10
           - ghostbusters
           - milk
 
