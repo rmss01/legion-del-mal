@@ -40,11 +40,20 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+
+      - name: Instalar el transmisor de la Legión
+        run: sudo apt-get install -y cowsay
       
       - name: Imprimir inputs
         run: |
-          echo "Inputs: "
+          echo "============================="
+          echo "  Transmisión interceptada  "
+          echo "============================="
           echo ""
-          echo "${{ inputs.villano }}"
-          echo "${{ inputs.prioridad }}"
+          echo "De: {{ inputs.villano }}"
+          echo ""
+          echo "Prioridad: ${{ inputs.prioridad }}"
+          echo "----- Mensaje -----"
           echo "${{ inputs.mensaje }}"
+          echo "-------------------"
+          echo "Fecha: $(date -u +"%d-%m-%y - %H:%M UTC")"
