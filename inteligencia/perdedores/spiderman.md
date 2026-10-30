@@ -18,8 +18,7 @@
 
 ## Debilidades
 
-* Vulnerabilidad mental: Sus poderes se afectan por sus emociones.
-
+* Vulnerabilidad mental: Sus poderes se afectan por sus emociones. Pero cuidado, si sus seres queridos están en peligro o se ve acorralado sus poderes pueden aumentar
 * Moral increbrantable: Su moral es debilidad.
 
 ## Peliculas
@@ -28,3 +27,11 @@
 - Spiderman: No way home
 - Spiderman: Far from home
 - Spiderman: Homecomming
+
+## Estrategia recomendada
+
+**Los ataques directos no funcionan**
+Su sentido arácnido lo hace casi invencible.
+
+**Los mejores ataques son los que no son directos**
+Su punto débil no es su cuerpo, es su mente.
