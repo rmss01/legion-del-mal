@@ -17,7 +17,7 @@ jobs:
     steps:
 
       - name: Brainiac accede a los planes
-        run: actions/checkout@v4
+        uses: actions/checkout@v4
 
       - name: El consejo revisa los cambios
         run: |
