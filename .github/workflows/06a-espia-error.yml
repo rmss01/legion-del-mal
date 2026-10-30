@@ -18,5 +18,5 @@ jobs:
       - name: Confirmar recepción de Brainiac
         run: echo "✅ Brainiac confirma recepción de la alerta"
 
-       - name: Activar protocolo de defensa
+      - name: Activar protocolo de defensa
         run: echo "🛡️ Protocolo de defensa activado por Magneto"
